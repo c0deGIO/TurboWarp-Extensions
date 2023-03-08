@@ -22,7 +22,7 @@
     getInfo () {
       return {
         id: "utilitiesCodegio",
-        name: "Everything",
+        name: "Utilities",
         color1: '#0fbd8c',
 
         blocks: 
@@ -174,7 +174,7 @@
                   one:
                     {
                       type: Scratch.ArgumentType.STRING,
-                      defaultValue: "https://scratch.mit.edu/users/codeGIO"
+                      defaultValue: "https://turbowarp.org/"
                     }
                 }
             },
@@ -188,7 +188,7 @@
                   one:
                     {
                       type: Scratch.ArgumentType.STRING,
-                      defaultValue: "https://scratch.mit.edu/users/codeGIO"
+                      defaultValue: "https://turbowarp.org/"
                     }
                 }
             },
